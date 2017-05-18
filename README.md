@@ -5,7 +5,7 @@
 The infamous Mastermind game written in latest Javascript with React.
 
 ## How to play:
-You can play the game at: http://mastermind-react.herokuapp.com/ <br />
+You can play the game at: http://mindfluff.herokuapp.com/ <br />
 Yeah, I know it does not look too good, but who cares?
 ### Details:
 Black code peg means correct position + color.
