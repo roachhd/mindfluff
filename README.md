@@ -9,5 +9,5 @@ You can play the game at: http://mindfluff.herokuapp.com/ <br />
 Yeah, I know it does not look too good, but who cares?
 ### Details:
 Black code peg means correct position + color.
-White code peg means correct position only.
+White code peg means correct color only.
 Their position are generated randomly.
