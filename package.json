@@ -1,5 +1,5 @@
 {
-  "name": "mastermind",
+  "name": "mindfluff",
   "version": "1.0.0",
   "description": "The infamous mastermind game in React and Redux",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/wizardone/mastermind.git"
+    "url": "git+ssh://git@github.com/roachhd/mindfluff.git"
   },
   "keywords": [
     "mastermind",
@@ -22,12 +22,12 @@
     "javascript",
     "es6"
   ],
-  "author": "Stefan Slaveykov",
+  "author": "ROACH HD",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wizardone/mastermind/issues"
+    "url": "https://github.com/roachhd/mindfluff/issues"
   },
-  "homepage": "https://github.com/wizardone/mastermind#readme",
+  "homepage": "https://github.com/roachhd/mindfluff#readme",
   "dependencies": {
     "express": "^4.14.0",
     "react": "^15.3.1",
